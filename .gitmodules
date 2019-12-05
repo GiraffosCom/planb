@@ -1,0 +1,4 @@
+[submodule "github"]
+	path = github
+	url = git@github.com:GiraffosCom/SII-v3.git
+	branch = master
